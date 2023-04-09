@@ -10,3 +10,6 @@ print("Con la función de math: ",math.sin(math.radians(39)),end="\n\n")
 
 print(sinTay(-789))
 print("Con la función de math: ",math.sin(math.radians(-789)),end="\n\n")
+
+print(sinTay(-580))
+print("Con la función de math: ",math.sin(math.radians(-580)),end="\n\n")
